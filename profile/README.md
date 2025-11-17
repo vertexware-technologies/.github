@@ -1,4 +1,4 @@
-# VertexWare
+# Vertex | Agência de Desenvolvimento
 
 ## Git Commit Message Conventions
 
